@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ibrahim Kaware
 - 👀 I’m interested in Data Science, Machine Learning, and AI.
-- 🌱 I’m currently learning Deep Learning
-- 💞️ I’m looking to collaborate on making this field more accessible.
+- 🌱 I’m currently working in Android Development, Teaching, and Training.
+- 💞️ I’m looking to collaborate on making these fields more accessible.
 - 📫 How to reach me ibrahimokaware@gmail.com
 
 <!---
